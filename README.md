@@ -24,7 +24,7 @@ The project uses meteorological data from the **ERA5 dataset**, provided by the 
 
 ### **Data Used**:
 1. **Training Data**:
-   - January 2024 wind speed data for the Indian region.
+   - 2024 wind speed data for the Indian region.
 2. **Testing Data**:
    - January 2025 wind speed data for the same region.
 
